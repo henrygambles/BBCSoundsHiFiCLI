@@ -14,3 +14,4 @@ One complication was that BBC Sounds only shows live metadata for users who are 
 brew install mpv
 pip3 install mpv python-mpv
 ```
+![radio-demo](https://user-images.githubusercontent.com/47319147/202790338-847c1321-4898-4a62-bca6-77317bedca92.gif)
