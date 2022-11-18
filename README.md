@@ -8,6 +8,8 @@ I was originally planning to use beautiful soup to scrape the data from the HTML
 
 One complication was that BBC Sounds only shows live metadata for users who are logged in so. The script will work fine without any credentials - though for totally up-to-date metadata a valid email & password for your BBC account should be set via the `BBC_SOUNDS_EMAIL` & `BBC_SOUNDS_PASSWORD` env vars.
 
+(Warning - this code is 🗑 - I don't write code like this for work 😄)
+
 ### Install dependencies
 
 ```
