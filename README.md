@@ -1,4 +1,4 @@
-# BBC Sounds CLI
+# BBC Sounds HiFi CLI
 
 As outlined [here](https://www.hifiwigwam.com/forum/threads/high-quality-320kbps-streams-for-all-bbc-radio-stations.82711/) - whilst BBC usually broadcasts digitally at 128kbps - higher quality 320kbps streams are also avaulable in m3u8 format.
 
