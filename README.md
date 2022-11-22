@@ -16,4 +16,20 @@ One complication was that BBC Sounds only shows live metadata for users who are 
 brew install mpv
 pip3 install mpv python-mpv
 ```
+### Usage
+```
+❱  r --help
+usage: radio.py [-h] [-v] [-s] [station]
+
+CLI to play BBC Radio Staions in 320kbs
+
+positional arguments:
+  station        The station you want to play [1, 1x, 2, 3, 4, 5, 6]
+
+options:
+  -h, --help     show this help message and exit
+  -v, --verbose  show additional metadata for the previous tracks
+  -s, --static   prevent ticker animation
+```
+
 ![radio-demo](https://user-images.githubusercontent.com/47319147/202790338-847c1321-4898-4a62-bca6-77317bedca92.gif)
